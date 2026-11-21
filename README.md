@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SpendWise – Personal Expense Tracker
 
 A Python and Flet capstone project for recording and reviewing personal expenses.
@@ -57,3 +58,7 @@ python -m unittest -v
 ## Notes
 
 The starter version stores data in a local JSON file. This is suitable for demonstrating file handling in a learning project, but it is not a shared cloud database. For a deployed multi-user app, use a secure backend/database and user authentication.
+=======
+# Spendwise
+A Python and Flet capstone project for recording and reviewing personal expenses.
+>>>>>>> ab430b78b21db66ca79266ed67704cd16df17113
