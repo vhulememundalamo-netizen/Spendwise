@@ -1,0 +1,58 @@
+[
+    {
+        "description": "Lunch",
+        "amount": 89.0,
+        "category": "Food",
+        "date": "2026-11-21",
+        "id": "4a835fcc-c679-4f86-9a51-9733f9b30d95"
+    },
+    {
+        "description": "transport",
+        "amount": 50.0,
+        "category": "Transport",
+        "date": "2026-11-21",
+        "id": "771811ce-ce10-4dc8-a6f1-2d886b8d8997"
+    },
+    {
+        "description": "Schhoolfees",
+        "amount": 32700.0,
+        "category": "Education",
+        "date": "2026-11-22",
+        "id": "04218525-8cb1-4d4a-a2a7-c1222e2ba3e7"
+    },
+    {
+        "description": "Doctor consultations",
+        "amount": 550.0,
+        "category": "Health",
+        "date": "2026-11-22",
+        "id": "445436ee-c2ca-463e-8683-697c95d14430"
+    },
+    {
+        "description": "PS5",
+        "amount": 12000.0,
+        "category": "Entertainment",
+        "date": "2026-11-22",
+        "id": "fba08866-37c7-40af-9bce-4a4e8473723a"
+    },
+    {
+        "description": "GTA6",
+        "amount": 1500.0,
+        "category": "Entertainment",
+        "date": "2026-11-22",
+        "id": "2ce3d05d-916b-4c16-bb0a-ca83d6d35d15"
+    },
+    {
+        "description": "Date night",
+        "amount": 2300.0,
+        "category": "Entertainment",
+        "date": "2026-10-22",
+        "id": "4469ed76-5df6-469d-8d09-95a5505fa04c"
+    },
+    {
+        "description": "Groceries",
+        "amount": 1200.0,
+        "category": "Food",
+        "date": "2026-11-02",
+        "id": "0c768f40-5757-4f2d-9886-29c06ae46f3e"
+    }
+]
